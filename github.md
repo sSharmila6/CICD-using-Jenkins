@@ -12,7 +12,6 @@ A repository is a storage space where your project lives. It can be local to a f
 
 ## GitHub Flow Considerations:
 
-
 1.	Any code in the main branch should be deployable.
 2.	Create new descriptively named branches off the main branch for new work, such as feature.
 3.	Commit new work to your local branches and regularly push work to the remote.
@@ -20,9 +19,7 @@ A repository is a storage space where your project lives. It can be local to a f
 5.	After your work or feature has been reviewed and approved, it can be merged into the main branch.
 6.	Once your work has been merged into the main branch, it should be deployed immediately.
 
-
 ## Push your Code to GitHub Repository using Command Line
-
 
 - To initialize empty local git repository, type the below command.
 
@@ -63,7 +60,10 @@ A repository is a storage space where your project lives. It can be local to a f
 - git remote -v   ----> shows the urls of Present remote Repositories
 - git clone [url] ----> retrieve an entire repository from a hosted location via URL
  - git remote add origin github URL----> it adds the remote repository to a local repository
-- Git pull origin branchname ----> pull the code 
-- Git fetch origin branchname
-- Git pull = git fetch+git merge
-
+- git pull origin branchname ----> pull the code 
+- git fetch origin branchname
+- git pull = git fetch+git merge
+- git branch -m test newtest - to change the branch name to the new change
+- git branch -d branchname   - to delete the branch name
+- git merge featurebranch-name - to merge the branch from main to feature
+- git rebase featurebranch-name - to rebase the branch from main to feature branch
