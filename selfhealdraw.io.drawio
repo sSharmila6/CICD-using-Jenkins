@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T14:09:44.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="lIkqgVT_6wvgpFILrkxf" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-25T15:09:54.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="t9bDv7LxIAGMUuAruL3x" version="23.1.2" type="github" pages="2">
   <diagram id="Sejshk8urJBB3DEKOXa6" name="Page-1">
-    <mxGraphModel dx="914" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tyGu0AvqOdseyZByAhvh-3" value="UnManaged Instance Group" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
+        <mxCell id="tyGu0AvqOdseyZByAhvh-3" value="Managed Instance Group" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="308" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C0eixMdY0BF7NA55F8Ps-3" value="Compute&lt;br&gt;Engine 1" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine" parent="tyGu0AvqOdseyZByAhvh-3" vertex="1">
