@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:20:50.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="O__dJCR9ryPMwG1qri2P" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-26T15:10:46.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="MSxAPPckE13etbjB7E0x" version="24.1.0" type="github" pages="2">
   <diagram id="Sejshk8urJBB3DEKOXa6" name="Page-1">
-    <mxGraphModel dx="1329" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1125" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="C0eixMdY0BF7NA55F8Ps-10" value="Detection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0eixMdY0BF7NA55F8Ps-12" value="cloud Monitoring" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_deployment_manager" parent="1" vertex="1">
-          <mxGeometry x="580" y="170.75" width="66" height="58.5" as="geometry" />
+        <mxCell id="C0eixMdY0BF7NA55F8Ps-12" value="" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_deployment_manager" parent="1" vertex="1">
+          <mxGeometry x="580" y="170.75" width="70" height="59.25" as="geometry" />
         </mxCell>
         <mxCell id="C0eixMdY0BF7NA55F8Ps-19" value="Cloud&#xa;Functions" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_functions" parent="1" vertex="1">
           <mxGeometry x="150" y="380" width="66" height="58.5" as="geometry" />
@@ -253,6 +253,9 @@
             <mxPoint x="370" y="880" as="sourcePoint" />
             <mxPoint x="321" y="890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kOGBjmffutC2Qgpkx1Y1-37" value="cloud monitoring/logging" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="221.5" width="65" height="29.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
